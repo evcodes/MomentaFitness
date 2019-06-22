@@ -1,7 +1,8 @@
-package com.eddyvarela.momentafitness
+package com.eddyvarela.momentafitness.activities
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.eddyvarela.momentafitness.R
 
 class MainActivity : AppCompatActivity() {
 
